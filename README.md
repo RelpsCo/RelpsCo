@@ -8,7 +8,7 @@
  <br>
 </p>
 <h3><strong>Quem somos?</strong></h3>
-<p align=justify>A Relps foi criada como um projeteo que visasse facilitar a vida dos microempreendedores os informando e auxiliando em sua jornada profissional, com destaque na área financeira e burocrática. Se você ficou curioso(a/e) para saber como o projeto foi desenvolvido, você veio ao lugar certo! Precisa de ajuda? Nos deixe te dar um <strong>Relps!</strong> #daumrelps</p>
+<p align=justify>A Relps foi criada como um projeto que visasse facilitar a vida dos microempreendedores os informando e auxiliando em sua jornada profissional, com destaque na área financeira e burocrática. Se você ficou curioso(a/e) para saber como o projeto foi desenvolvido, você veio ao lugar certo! Precisa de ajuda? Nos deixe te dar um <strong>Relps!</strong> #daumrelps</p>
 
 <h3><b>- Projeto desenvolvido com as tecnologias:</b></h3>
 <p>
