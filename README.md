@@ -22,6 +22,6 @@ src="https://img.shields.io/badge/JavaScript-16493f?style=for-the-badge&logo=jav
 <br>
 
 <h3><b>- Conheça a equipe Relps:</b></h3>
-<p>• <a href="https://github.com/AlanysF">Alanys Ferreira</a>, <a href="https://github.com/Biaromao">Beatriz Romão</a>, <a href="https://github.com/griffinho">Erik Hinojosa</a>, <a href="https://github.com/Geovannacordeiro">Geovanna Cordeiro</a>, <a href="https://github.com/isaquevereda">Isaque Vereda</a>, <a href="https://github.com/jeancostt">Jean Costa</a>, <a href="https://github.com/JoaoPMGI">João Mendes</a> & <a href="https://github.com/DevPedro10">Natã da Silva</a>.</p>
+<p>• <a href="https://github.com/AlanysF">Alanys Ferreira</a>, <a href="https://github.com/Biaromao">Beatriz Romão</a>, <a href="https://github.com/griffinho">Erik Hinojosa</a>, <a href="https://github.com/Geovannacordeiro">Geovanna Cordeiro</a>, <a href="https://github.com/isaquevereda">Isaque Vereda</a>, <a href="https://github.com/jeancostt">Jean Costa</a>, <a href="https://github.com/JoaoPMGI">João Mendes</a> & <a href="https://github.com/DevPedro10">Natã Pedro da Silva</a>.</p>
 </div>
 <br>
